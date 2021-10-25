@@ -1,4 +1,4 @@
-# devops-netology Denis Polyakov
+# devops-netology Денис Поляков
 ## Задание №1
 
 Файлы будут проигнорированы в будущем благодаря добавленному в папку terraform `.gitignore`:
