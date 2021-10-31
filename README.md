@@ -14,3 +14,5 @@
 - `*_override.tf.json` - игнорирует файлы с окончанием "_override.tf.json"
 - `.terraformrc` - игнорирует скрытый файл с свопадением написания ".terraformrc"
 - `terraform.rc` - игнорирует файл с свопадением написания "terraform.rc"
+
+new line
