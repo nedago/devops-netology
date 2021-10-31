@@ -16,3 +16,5 @@
 - `terraform.rc` - игнорирует файл с свопадением написания "terraform.rc"
 
 Add changes step1 to the file
+
+Add changes step2 to the file
