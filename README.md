@@ -18,3 +18,6 @@
 Add changes step1 to the file
 
 Add changes step2 to the file
+
+
+Домашнее задание к занятию «2.3. Ветвления в Git»
